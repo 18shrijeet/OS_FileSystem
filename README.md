@@ -1,4 +1,5 @@
 # OS_FileSystem
+<pre>
 Minimalistic FileSystem Built on top of FUSE..<br/>
 Functionalities Implemented In This File System<br/>
 --->Directory<br/>
@@ -16,3 +17,4 @@ Functionalities Implemented In This File System<br/>
 	---Read and write to files.<br/>
 --->>>Access, modified and status change time updates.<br/>
 --->>>Persistence of all aspects of the file system.<br/>
+</pre>
