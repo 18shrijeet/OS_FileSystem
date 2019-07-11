@@ -1,18 +1,18 @@
 # OS_FileSystem
-Minimalistic FileSystem Built on top of FUSE..
+Minimalistic FileSystem Built on top of FUSE..<br/>
 Functionalities Implemented In This File System<br/>
 --->Directory<br/>
-	---Creating a directory.
-	---Deleting a directory 
-	   --empty
-	   --non-empty.
---->Files
-	---Creating a file using
-	   --touch
-	   --nano 
-	---Delete an existing file.
-	---Appending to and truncating a file.
-	---Open and close a file.
-	---Read and write to files.
---->>>Access, modified and status change time updates.
---->>>Persistence of all aspects of the file system.
+	---Creating a directory.<br/>
+	---Deleting a directory <br/>
+	   --empty<br/>
+	   --non-empty.<br/>
+--->Files<br/>
+	---Creating a file using<br/>
+	   --touch<br/>
+	   --nano <br/>
+	---Delete an existing file.<br/>
+	---Appending to and truncating a file.<br/>
+	---Open and close a file.<br/>
+	---Read and write to files.<br/>
+--->>>Access, modified and status change time updates.<br/>
+--->>>Persistence of all aspects of the file system.<br/>
