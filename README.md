@@ -1,9 +1,7 @@
 # OS_FileSystem
-Minimalistic FileSystem Built on top of FUSE
-
-
-Functionalities Implemented In This File System
---->Directory
+Minimalistic FileSystem Built on top of FUSE..
+Functionalities Implemented In This File System<br/>
+--->Directory<br/>
 	---Creating a directory.
 	---Deleting a directory 
 	   --empty
