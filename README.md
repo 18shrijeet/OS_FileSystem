@@ -17,4 +17,7 @@ Functionalities Implemented In This File System<br/>
 	---Read and write to files.<br/>
 --->>>Access, modified and status change time updates.<br/>
 --->>>Persistence of all aspects of the file system.<br/>
+
+
+Contibutors: Shrijeet Pai and Abhinav Hegde (AbhinavHegde97)
 </pre>
