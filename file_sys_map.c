@@ -23,7 +23,7 @@ int clear_bit(uint8_t ** bitmap, uint64_t bitno) {
 
 int set_bit(uint8_t ** bitmap, uint64_t bitno) {
     uint64_t index = bitno / 8;
-    int bit_index = bitno % 8;
+    
 
     int val = (int)pow(2, bit_index);
     (* bitmap)[index] = (* bitmap)[index] | (val);
