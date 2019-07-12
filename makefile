@@ -1,4 +1,4 @@
-username = $(shell shrijeet_abhinav)
+.username = $(shell shrijeet_abhinav)
 SRCDIR = src
 files = $(SRCDIR)/file_sys_main.c $(SRCDIR)/file_sys_operations.c $(SRCDIR)/file_sys_tree.c $(SRCDIR)/file_sys_map.c $(SRCDIR)/file_sys_disc.c
 opflag = -o fs
